@@ -1,5 +1,7 @@
 #coding:utf-8
 
+#Author : Nassim Nait-Saidi
+
 import os
 
 #Unicode code corresponding to left-to-write-overwrite
