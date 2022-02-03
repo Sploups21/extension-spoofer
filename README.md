@@ -21,7 +21,7 @@ Enter the extension to spoof : pdf
 
 It is recommended to choose a filename finishing by the same letters of your extension since the extension is not removed but simply reversed, thanks to the Unicode code "U+202E".
 
-So since the extension of your original Windows executable is ".exe", it's more coherent to rename it by a word finishing by "exe", like "reflexe" for example, and to remove the last three characters of it so you will get "refl.exe".
+So since the extension of your original Windows executable is ".exe", it's more coherent to rename it by a word finishing by "exe", like "reflexe" for example, and to remove the last three characters of it so you will get <strong>"refl.exe"</strong>.
 
 Thanks to this method, <strong>an executable named refl.exe</strong>, which spoof extension is pdf, will give you <strong><em>reflexe.pdf</em></strong> 
 
