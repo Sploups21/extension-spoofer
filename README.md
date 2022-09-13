@@ -27,8 +27,6 @@ Thanks to this method, <strong>an executable named refl.exe</strong>, which spoo
 
 But <strong>an executable named titi.exe</strong>, which spoof extension is pdf, will give you <strong><em>titiexe.pdf</em></strong> (which is less discrete) 
 
-(You can find some french words finishing by "exe" in Wordlist_FR.txt)
-
 Once your file is spoofed, you can change manually the icon of your file corresponding to the extension you choosed to spoof. 
 
 ## Demo
